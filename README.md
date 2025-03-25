@@ -7,7 +7,7 @@ This project simulates a private equity acquisition of a mid-market SaaS company
 - **Sector**: SaaS / Technology
 - **Deal Type**: Leveraged Buyout (LBO)
 - **Target**: monday.com
-- **Tools Used**: Excel, Python (for analysis), PowerPoint
+- **Tools Used**: Excel, Python for analysis
 
 ##  Project Deliverables
 -  Comparable Company Analysis
